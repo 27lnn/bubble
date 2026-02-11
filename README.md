@@ -1,7 +1,7 @@
 # BUBBLE
 
 <p align="center">
-  <img src="BUBBLE.png" width="300" />
+  <img src="BUBBLE.jpg" width="300" />
 </p>
 
 
