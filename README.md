@@ -1,5 +1,10 @@
 # BUBBLE
 
+<p align="center">
+  <img src="BUBBLE.png" width="300" />
+</p>
+
+
 BUBBLE uses creator fees to grow a pool until it pops and redistributes all accumulated fees to current holders.
 
 ---
